@@ -23,4 +23,5 @@ Gem::Specification.new do |s|
   s.add_dependency "haml"
   s.add_dependency "coderay"
   s.add_dependency "jquery-rails", "~> 4.3.1"
+  s.add_dependency "jquery-ui"
 end
